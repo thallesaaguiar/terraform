@@ -25,9 +25,9 @@ variable "instance_type" {
 variable "instance_tags" {
   type        = map(string)
   description = ""
-  default     = {
-      Name = "Ubuntu"
-      Project = "Curso AWS com terraform"  
+  default = {
+    Name    = "Ubuntu"
+    Project = "Curso AWS com terraform"
   }
 
 }
