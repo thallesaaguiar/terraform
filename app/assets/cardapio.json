@@ -1,0 +1,49 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "Hambúrguer",
+        "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+        "preco": 10,
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "nome": "Marmita",
+        "descricao": "arroz, feijao, frango grelhado, batata frita.",
+        "preco": 19,
+        "categoria_id": 1
+      },
+      {
+        "id": 3,
+        "nome": "Salada",
+        "descricao": "Alface, frango, queijo minas, cebola, abobrinha e brocolis.",
+        "preco": 22,
+        "categoria_id": 1
+      },
+      {
+        "id": 4,
+        "nome": "Suco natual",
+        "descricao": "Solicite ao garçom as frutas do dia.",
+        "preco": 6,
+        "categoria_id": 2
+      },
+      {
+        "id": 5,
+        "nome": "Sobremesa",
+        "descricao": "Solicite ao garçom as sobremesas do dia.",
+        "preco": 9,
+        "categoria_id": 2
+      }
+    ],
+    "categorias": [
+      {
+        "id": 1,
+        "nome": "Pratos"
+      },
+      {
+        "id": 2,
+        "nome": "Sucos e sobremesas"
+      }
+    ]
+  }
